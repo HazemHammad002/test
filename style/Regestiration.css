@@ -1,0 +1,21 @@
+table{
+    margin-top: 150px;
+    background-color: crimson;
+    border-style: inset;
+    border-color: crimson;
+}
+td{
+    border: 1px inset crimson;
+}
+.dy{
+    width: 50px;
+}
+#sub{
+    text-align: center;
+}
+th{
+    border: 1px inset crimson;
+}
+body{
+    background-color: white;
+}
